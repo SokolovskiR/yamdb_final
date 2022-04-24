@@ -46,7 +46,7 @@ jobs:
         - name: Push to Docker Hub
           uses: docker/build-push-action@v2 
           with:
-            file: ./api_yamdb/Dockerfile
+            context: ./api_yamdb/
             tags: 904863016213768723/yamdb_final:latest
             push: true
   
