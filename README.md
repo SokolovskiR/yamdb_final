@@ -3,7 +3,9 @@
 ![YAMDB workflow status](https://github.com/SokolovskiR/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
 
 ## Description
+
 This is a RESTful API for "YaMDb", a rating service for artworks like movies, books or songs.
+
 ## Technology
 * Python 3.7
 * Django 2.2.16
