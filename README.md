@@ -41,11 +41,12 @@ python3 manage.py runserver
 
 ## REST API available endpoints
 
-After you started the development server, go to */api/v1/redoc/* URL where you can find the API documentation with available endpoints.
+After you started the development server, go to */redoc/* URL where you can find the API documentation with available endpoints.
 
 ## Public Deployment
 
-You can check the project by visiting: http://romka-yatube.hopto.org/api/v1/
+You can check the public deployed API by visiting: http://romka-yatube.hopto.org/api/v1/
+API Documentation: http://romka-yatube.hopto.org/redoc/
 
 ### Authors
 RomanS, AlexanderK, RomanY
