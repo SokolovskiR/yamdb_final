@@ -46,6 +46,8 @@ After you started the development server, go to */redoc/* URL where you can find
 ## Public Deployment
 
 You can check the public deployed API by visiting: http://romka-yatube.hopto.org/api/v1/
+
+
 API Documentation: http://romka-yatube.hopto.org/redoc/
 
 ### Authors
