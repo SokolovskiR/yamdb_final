@@ -10,7 +10,9 @@ This is a RESTful API for "YaMDb", a rating service for artworks like movies, bo
 * Python 3.7
 * Django 2.2.16
 * Django REST framework 3.12.4
+
 ## How to run the project in dev-mode
+
 - clone this repository to your local machine
 ```
 git clone https://github.com/SokolovskiR/api_yamdb
